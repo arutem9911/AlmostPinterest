@@ -1,0 +1,19 @@
+[tool.poetry]
+name = "almostpinterest"
+version = "0.1.0"
+description = ""
+authors = ["arutem9911 <arutem99111@gmail.com>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.10"
+django = "^5.0.6"
+asgiref = "^3.8.1"
+pytz = "^2024.1"
+sqlparse = "^0.5.0"
+typing-extensions = "^4.11.0"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
