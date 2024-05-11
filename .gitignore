@@ -1,5 +1,6 @@
 .idea/
 venv/
 __pycache__/
+almostPinterest/db.sqlite3
 db.sqlite3
 test.py
